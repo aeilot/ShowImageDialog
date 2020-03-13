@@ -1,0 +1,2 @@
+include ':app', ':imagedialog'
+rootProject.name='ShowImageDialog'
